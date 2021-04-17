@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AppCamera</string>
+    <string name="camera_permiso">Camera Permiso</string>
+    <string name="usa_tu_camara">Usa tu camara!</string>
+</resources>
